@@ -60,3 +60,5 @@ function waffle.ServerSay(any, station)
     return false
   end
 end
+
+-- the end.
