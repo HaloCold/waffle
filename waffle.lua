@@ -2,7 +2,7 @@
 
 Waffle: Version 0.9.1-alpha
 
-[ Credits, Downloads, More: https://halocold.cf/waffle ]
+[ Credits, Downloads, More: https://shhnotrightnow.xyz/waffle ]
 
 ]]
 
