@@ -33,7 +33,7 @@ function waffle.New(stationName)
 end
 
 function waffle:Find(StationName)
-  local result = table.find(currentStations, StationName)
+  local result = table.find(currentStations, "waffle-"..StationName)
   if result then
     return result
   end
