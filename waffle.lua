@@ -1,6 +1,6 @@
 --[[
 
-Waffle: Version 0.9.1-alpha
+Waffle: Version 9.6.2
 
 [ Credits, Downloads, More: https://shhnotrightnow.xyz/waffle ]
 
